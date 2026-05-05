@@ -65,7 +65,7 @@ Frontend        React · Next.js · Angular (when the backend asks for it)
 
 ### Selected work in this profile
 
-- **[azure-openai-dotnet-cookbook](https://github.com/nirjash13/azure-openai-dotnet-cookbook)** — Production-grade C#/.NET 8 patterns for Azure OpenAI: streaming, function calling, RAG, evals, cost control
+- **[azure-openai-dotnet-cookbook](https://github.com/nirjash13/azure-openai-dotnet-cookbook)** - Production-grade C#/.NET 10 patterns for Azure OpenAI: streaming, function calling, RAG, evals, cost control
 - **[azure-architecture-patterns](https://github.com/nirjash13/azure-architecture-patterns)** — Battle-tested Azure architecture patterns from real projects: event-driven, AML/BSA compliance, real-time pricing
 - **[dotnet-clean-architecture-template](https://github.com/nirjash13/dotnet-clean-architecture-template)** — Opinionated .NET 8 starter: Clean Arch + DDD + CQRS + MediatR + EF Core + xUnit + GitHub Actions
 - **[engineering-notes](https://github.com/nirjash13/engineering-notes)** — Public engineering notes: what I'm learning, patterns I'm using, post-mortems
